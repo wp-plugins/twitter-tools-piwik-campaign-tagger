@@ -1,5 +1,5 @@
 === Twitter Tools - Piwik Campaign Tagger ===
-Tags: twitter-tools, piwik
+Tags: twitter-tools, piwik, campaign
 Requires at least: 2.6
 Tested up to: 3.01
 Stable tag: 0.1
